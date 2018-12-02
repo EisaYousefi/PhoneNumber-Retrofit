@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">دفترچه تلفن</string>
+    <string name="Save_newContect">ذخیره</string>
+    <string name="Img_newcontect">کد عکس را وارد کنید</string>
+    <string name="tel_newcontect">شماره تلفن را وارد کنید</string>
+    <string name="name_newcontect">نام وفامیل را وارد کنید</string>
+    <string name="NuberPhone">شماره تلفن را وارد کنید</string>
+    <string name="imgNewContact">کد عکس مخاطب را وارد کنید</string>
+    <string name="nameFamil">نام وفامیل را وارد کنید</string>
+</resources>

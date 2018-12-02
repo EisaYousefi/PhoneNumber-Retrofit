@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">PhonBookApp</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="textsize">18dp</string>
+    <string name="name"><![CDATA[Name & Famil : ]]></string>
+    <string name="nameFamil">Enter Name and Famil</string>
+    <string name="imgNewContact">Enter Code Image Contact</string>
+    <string name="NuberPhone">Enter Number Phone</string>
+    <string name="name_newcontect">Enter  Name and Famil</string>
+    <string name="tel_newcontect">Enter Number Phone</string>
+    <string name="Img_newcontect">Enter Id Image</string>
+    <string name="Save_newContect">Save</string>
+    <string name="titlTollbar">Phone Number</string>
+</resources>
